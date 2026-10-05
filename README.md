@@ -5,7 +5,7 @@ Aplicación de consola en Node.js (JavaScript) para gestionar estudiantes, docen
 ## Requisitos
 
 - Node.js 20.6 o superior
-- MySQL 8
+- MySQL 
 
 ## Cómo ejecutarla
 
